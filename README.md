@@ -4,7 +4,7 @@
 
 -📨email para contato: vit.marinho2001@gmail.com
 
--💻 Atualmente procurando por Experiência na área de programação.
+-💻 Atualmente procurando por Novas Experiencias na área da programação. Já obtive uma experiencia na area com aplicações Web(JavaScript and React) e automações com Python.
 
 
 <div>
