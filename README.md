@@ -11,7 +11,7 @@
 <a href = "mailto:vit.marinho2001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorMarinhoSilva&show_icons=true&theme=dracula&count_private=true)   <a href="https://github.com/VitorMarinhoSilva">
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorMarinhoSilva&show_icons=true&theme=dracula&count_private=true),   <a href="https://github.com/VitorMarinhoSilva">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMarinhoSilva&layout=compact&langs_count=7&theme=dracula"/>
 
 ## Tecnologias que eu uso no meu dia
