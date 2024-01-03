@@ -1,18 +1,18 @@
-## Olá! Eu sou o Vitor Marinho 🖐️
+=## Olá! Eu sou o Vitor Marinho 🖐️
 
--📖 Atualmente na Faculdade de Ciências da Computação
-
--📨 Email para contato: vit.marinho2001@gmail.com
-
--💻 Atualmente procurando por Novas Experiencias na área da programação. Já obtive uma experiencia na area com aplicações FullStack (JavaScript and React), Docker, Alguns bancos de dados como MongoDB, PostgreSQL etc. E automações com Python.
+- 📖 Atualmente na Faculdade de Ciências da Computação
+- 📨 Email para contato: vit.marinho2001@gmail.com
+- 💻 Atualmente procurando por Novas Experiencias na área da programação. Já obtive uma experiencia na área com aplicações FullStack (JavaScript and React), Docker, Alguns bancos de dados como MongoDB, PostgreSQL etc. E automações com Python.
 
 <a href="https://www.linkedin.com/in/vitor-marinho-87809a178/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="mailto:vit.marinho2001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-<a href = "mailto:vit.marinho2001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorMarinhoSilva&show_icons=true&theme=dracula&count_private=true),   <a href="https://github.com/VitorMarinhoSilva">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMarinhoSilva&layout=compact&langs_count=7&theme=dracula"/>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorMarinhoSilva&show_icons=true&theme=dracula&count_private=true" />
+  <a href="https://github.com/VitorMarinhoSilva">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMarinhoSilva&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
 
 ## Tecnologias que eu uso no meu dia
 
@@ -29,4 +29,4 @@
   <img align="center" alt="AzureDevOps" src="https://img.shields.io/badge/AzureDevOps-007ACC?style=for-the-badge&logo=azuredevops&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologias complexas, levar diversos conhecimentos á praticas e entusiasta de musicas.
+Apaixonado por tecnologias complexas, levar diversos conhecimentos á práticas e entusiasta de músicas.
