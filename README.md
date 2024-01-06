@@ -1,4 +1,4 @@
-=## Olá! Eu sou o Vitor Marinho 🖐️
+## Olá! Eu sou o Vitor Marinho 🖐️
 
 - 📖 Atualmente na Faculdade de Ciências da Computação
 - 📨 Email para contato: vit.marinho2001@gmail.com
