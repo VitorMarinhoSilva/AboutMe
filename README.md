@@ -7,6 +7,10 @@
 <a href="https://www.linkedin.com/in/vitor-marinho-87809a178/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="mailto:vit.marinho2001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorMarinhoSilva&show_icons=true&theme=dracula&count_private=true&v=1" />
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMarinhoSilva&layout=compact&langs_count=7&theme=dracula&v=1"/>
+
+
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorMarinhoSilva&show_icons=true&theme=dracula&count_private=true" />
   <a href="https://github.com/VitorMarinhoSilva">
